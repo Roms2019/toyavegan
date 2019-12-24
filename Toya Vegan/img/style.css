@@ -1,0 +1,40 @@
+body:{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(102, 99, 99);
+    align-items: center;
+    text-align: center;
+    position: center;
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    position: center;
+    display: flex;
+}
+
+footer{
+    align-items: center;
+    position: center;
+    color: white;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+}
+
+img:{
+    align-items: center;
+    position: center;
+    flex-direction: row;
+    
+}

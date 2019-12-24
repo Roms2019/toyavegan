@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+header {
+    background-color: rgb(102, 99, 99);
+}
+
+section{
+    text-align: center;
+    position: center;
+}
+
+footer{  
+        background-color:rgb(102, 99, 99);  
+}        
